@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gen3D - Text to GLB Generator",
+  "description": "A powerful tool using Google Gemini to generate procedural 3D models from text prompts and export them as GLB files for use in Mapbox or other 3D applications.",
+  "requestFramePermissions": []
+}
